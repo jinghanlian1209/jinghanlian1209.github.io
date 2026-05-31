@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1000" viewBox="0 0 1600 1000" role="img" aria-label="AI smart mining startup pitch deck">
+  <rect width="1600" height="1000" fill="#0d151c"/>
+  <g opacity=".7">
+    <path d="M190 760 L375 440 L520 720 L675 360 L855 780 L1015 510 L1180 760 Z" fill="#253646"/>
+    <path d="M250 760 L405 520 L530 740 L690 430 L825 760 Z" fill="#354a5d"/>
+  </g>
+  <g fill="none" stroke="#6ad6c8" stroke-width="4" opacity=".65">
+    <circle cx="1050" cy="350" r="120"/><circle cx="1050" cy="350" r="230" opacity=".35"/><path d="M930 350h240M1050 230v240"/>
+    <circle cx="1050" cy="350" r="18" fill="#6ad6c8"/>
+  </g>
+  <text x="150" y="220" font-family="Inter, Arial, sans-serif" font-size="30" letter-spacing="3" fill="#6ad6c8">STARTUP PITCH DECK</text>
+  <text x="150" y="330" font-family="Georgia, serif" font-size="82" font-weight="700" fill="#fff">AI-Powered Smart</text>
+  <text x="150" y="420" font-family="Georgia, serif" font-size="82" font-weight="700" fill="#fff">Mining Solution</text>
+  <text x="150" y="505" font-family="Inter, Arial, sans-serif" font-size="30" fill="#c7d4dc">Safety warning · resource scheduling · multimodal AI</text>
+  <g transform="translate(150 590)" font-family="Inter, Arial, sans-serif" font-size="24" fill="#e6f3f2">
+    <rect width="310" height="74" rx="37" fill="#6ad6c8" opacity=".16"/><text x="35" y="47">Pitch storytelling</text>
+    <rect x="340" width="275" height="74" rx="37" fill="#6ad6c8" opacity=".16"/><text x="375" y="47">Product logic</text>
+    <rect x="645" width="280" height="74" rx="37" fill="#6ad6c8" opacity=".16"/><text x="680" y="47">Team strategy</text>
+  </g>
+</svg>

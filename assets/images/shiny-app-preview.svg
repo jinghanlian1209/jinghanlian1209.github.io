@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 875" role="img" aria-label="Static preview of ICU Hypotension Shiny app interface">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f5f1ea"/><stop offset="1" stop-color="#dce9e5"/></linearGradient>
+    <filter id="shadow" x="-10%" y="-10%" width="120%" height="120%"><feDropShadow dx="0" dy="24" stdDeviation="24" flood-color="#16303b" flood-opacity=".16"/></filter>
+  </defs>
+  <rect width="1400" height="875" rx="48" fill="url(#bg)"/>
+  <rect x="82" y="74" width="1236" height="720" rx="34" fill="#ffffff" filter="url(#shadow)"/>
+  <rect x="82" y="74" width="1236" height="78" rx="34" fill="#20313c"/>
+  <text x="126" y="123" font-family="Arial, sans-serif" font-size="26" font-weight="700" fill="#fff">ICU Hypotension Prediction App</text>
+  <g font-family="Arial" font-size="18" font-weight="700">
+    <rect x="535" y="94" width="156" height="38" rx="19" fill="#dce9e5"/><text x="563" y="120" fill="#20313c">Cohort Explorer</text>
+    <rect x="707" y="94" width="156" height="38" rx="19" fill="#ffffff" opacity=".14"/><text x="735" y="120" fill="#fff">Patient Explorer</text>
+    <rect x="879" y="94" width="92" height="38" rx="19" fill="#ffffff" opacity=".14"/><text x="907" y="120" fill="#fff">ML App</text>
+  </g>
+  <rect x="126" y="198" width="320" height="540" rx="24" fill="#f6f8f7" stroke="#d8e2df"/>
+  <text x="156" y="244" font-family="Arial" font-size="19" font-weight="700" fill="#20313c">Filters</text>
+  <text x="156" y="296" font-family="Arial" font-size="17" fill="#5f7078">Age range</text><rect x="156" y="315" width="246" height="12" rx="6" fill="#d6e3df"/><circle cx="218" cy="321" r="13" fill="#789e95"/><circle cx="356" cy="321" r="13" fill="#789e95"/>
+  <text x="156" y="380" font-family="Arial" font-size="17" fill="#5f7078">Outcome label</text><rect x="156" y="400" width="246" height="46" rx="12" fill="#fff" stroke="#d8e2df"/><text x="176" y="430" font-family="Arial" font-size="17" fill="#20313c">All</text>
+  <text x="156" y="500" font-family="Arial" font-size="17" fill="#5f7078">Female</text><rect x="156" y="520" width="246" height="46" rx="12" fill="#fff" stroke="#d8e2df"/><text x="176" y="550" font-family="Arial" font-size="17" fill="#20313c">All</text>
+  <rect x="488" y="198" width="352" height="205" rx="24" fill="#f6f8f7" stroke="#d8e2df"/>
+  <text x="522" y="246" font-family="Arial" font-size="20" font-weight="700" fill="#20313c">Cohort summary</text>
+  <text x="522" y="294" font-family="Arial" font-size="18" fill="#5f7078">N, prevalence, mean age, sex mix</text>
+  <rect x="522" y="326" width="245" height="16" rx="8" fill="#d6e3df"/><rect x="522" y="358" width="190" height="16" rx="8" fill="#e9eee9"/>
+  <rect x="878" y="198" width="352" height="205" rx="24" fill="#f6f8f7" stroke="#d8e2df"/>
+  <text x="912" y="246" font-family="Arial" font-size="20" font-weight="700" fill="#20313c">Risk prediction</text>
+  <text x="912" y="294" font-family="Arial" font-size="18" fill="#5f7078">Logistic regression probability</text>
+  <rect x="912" y="326" width="246" height="16" rx="8" fill="#d6e3df"/><rect x="912" y="358" width="148" height="16" rx="8" fill="#e9eee9"/>
+  <rect x="488" y="432" width="742" height="306" rx="24" fill="#f6f8f7" stroke="#d8e2df"/>
+  <text x="522" y="484" font-family="Arial" font-size="20" font-weight="700" fill="#20313c">Patient-level visualization</text>
+  <line x1="548" y1="680" x2="1162" y2="680" stroke="#d4dfdc" stroke-width="3"/>
+  <g fill="#789e95"><rect x="570" y="560" width="38" height="120" rx="8"/><rect x="640" y="510" width="38" height="170" rx="8"/><rect x="710" y="590" width="38" height="90" rx="8"/><rect x="780" y="540" width="38" height="140" rx="8"/><rect x="850" y="486" width="38" height="194" rx="8"/></g>
+  <g fill="#c2a574"><rect x="922" y="600" width="38" height="80" rx="8"/><rect x="992" y="530" width="38" height="150" rx="8"/><rect x="1062" y="575" width="38" height="105" rx="8"/></g>
+</svg>
